@@ -1,0 +1,83 @@
+body{
+    background-color:#211f1f; 
+    width: 700px;
+    height: 300px;
+}
+
+
+
+.myself {
+    color: aliceblue;
+    border: 15px solid #5aed5d;
+    width: 70%
+    padding: 500px;
+    padding:100%
+    border: 3px solid #5aed5d;
+    border-style:double;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: 100px;
+    
+    
+    
+}
+
+.myself p{
+    
+   width: 500px;
+   height: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+   
+}
+
+
+
+#buttonone{
+    
+    background-color: #5aed5d;
+    border:none;
+    font-size: 20px;
+    font-family: "Open Sans" , sans-serif;
+    width: 150px;
+    line-height: 30px;
+    float: bottom;
+    color: black;
+    float: right;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    
+   
+    
+    
+}
+ 
+#buttontwo{
+    
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    font-family: "Open Sans" , sans-serif;
+    line-height: 30px;
+    width: 150px;
+    float: bottom;
+    border: 3px solid #5aed5d;
+    display: inline-block;
+    margin-left: 50px;
+    color: white;
+    border-style: double;
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    margin-right: 0px;
+   
+}
+
+
+
+
+
+
+  
